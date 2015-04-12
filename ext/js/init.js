@@ -21,6 +21,6 @@ $.get( chrome.extension.getURL('html/dig.html'), function( data ) {
     dig_head.append("<link href='"+chrome.extension.getURL('css/cssdig.css') + "' rel='stylesheet' type='text/css'>");
 
     // Inject combined js.
-    dig_head.append("<script src='"+chrome.extension.getURL('js/cssdig.js')+"'></script>");
+    dig_head.append("<script src='"+chrome.extension.getURL('js/smprof.js')+"'></script>");
 
 });

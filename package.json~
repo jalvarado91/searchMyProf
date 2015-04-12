@@ -1,5 +1,6 @@
 {
   "name": "cssdig-chrome",
+  "version": "1.0",
   "description": "Chrome extension for analyzing CSS.",
   "main": "gulpfile.js",
   "repository": {
